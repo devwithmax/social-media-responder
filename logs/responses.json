@@ -1,0 +1,86 @@
+[
+  {
+    "message": {
+      "platform": "Facebook",
+      "sender": "Marie Janssen",
+      "text": "Hoe lang duurt de levering naar Gent?",
+      "timestamp": "2026-05-31T19:20:04.746623"
+    },
+    "status": "AUTO",
+    "reply": "Hallo Marie,\n\nBedankt voor uw vraag! Onze standaardlevering duurt **2–3 werkdagen** naar alle Belgische adressen, dus ook naar Gent. \n\nWilt u sneller? Met onze expresslevering bezorgen we vóór 12:00 de volgende werkdag (tegen een kleine meerprijs).\n\nNa verzending krijgt u van ons een e-mail met een trackingnummer, zodat u het pakket kunt volgen. Kan ik nog iets anders voor u doen? 😊",
+    "escalation_hit": null,
+    "processed_at": "2026-05-31T19:20:06.995998"
+  },
+  {
+    "message": {
+      "platform": "Facebook",
+      "sender": "Marie Janssen",
+      "text": "Hoe lang duurt de levering naar Gent?",
+      "timestamp": "2026-05-31T19:20:34.319224"
+    },
+    "status": "AUTO",
+    "reply": "Hallo Marie,\n\nBedankt voor uw vraag! Onze standaardlevering duurt **2–3 werkdagen** naar alle adressen in België, dus ook naar Gent. Als u het sneller nodig heeft, bieden we ook **Express-levering** aan (volgende werkdag vóór 12:00) tegen een meerprijs.\n\nNa verzending ontvangt u van ons een e-mail met een trackinglink, zodat u uw pakket kunt volgen.\n\nKan ik u nog ergens mee helpen? 😊",
+    "escalation_hit": null,
+    "processed_at": "2026-05-31T19:20:36.734883"
+  },
+  {
+    "message": {
+      "platform": "Instagram",
+      "sender": "@pietervdb",
+      "text": "Kan ik betalen met Bancontact?",
+      "timestamp": "2026-05-31T19:20:36.737845"
+    },
+    "status": "AUTO",
+    "reply": "Hallo Pieter! 👋\n\nJa, natuurlijk! Bij BelgaShop kunt u zeker betalen met Bancontact. We accepteren ook Visa, Mastercard, PayPal en Belfius Direct Net.\n\nKan ik u verder helpen met uw bestelling?",
+    "escalation_hit": null,
+    "processed_at": "2026-05-31T19:20:37.884145"
+  },
+  {
+    "message": {
+      "platform": "WhatsApp",
+      "sender": "+32 498 12 34 56",
+      "text": "Ik heb een klacht over mijn bestelling, dit is onacceptabel!",
+      "timestamp": "2026-05-31T19:20:37.887200"
+    },
+    "status": "ESCALATE",
+    "reply": "!! ESCALATE TO HUMAN\nReden: bericht bevat gevoelig trefwoord: 'klacht'\nPlatform: WhatsApp | Afzender: +32 498 12 34 56",
+    "escalation_hit": "klacht",
+    "processed_at": "2026-05-31T19:20:37.894388"
+  },
+  {
+    "message": {
+      "platform": "Facebook",
+      "sender": "Thomas De Backer",
+      "text": "Wanneer is mijn pakje er? Ik heb de trackingcode niet ontvangen.",
+      "timestamp": "2026-05-31T19:20:37.896923"
+    },
+    "status": "AUTO",
+    "reply": "Hallo Thomas,\n\nGraag help ik u! Kunt u mij uw ordernummer geven? Dan kan ik de verzendstatus opzoeken en u de trackingcode doorgeven.\n\nHeeft u de bevestigingsmail van uw bestelling gecontroleerd (inclusief spamfolder)? De trackinglink wordt meestal daar verstuurd zodra het pakje onderweg is.\n\nKan ik u verder helpen?",
+    "escalation_hit": null,
+    "processed_at": "2026-05-31T19:20:39.639567"
+  },
+  {
+    "message": {
+      "platform": "WhatsApp",
+      "sender": "+32 471 98 76 54",
+      "text": "Dit is dringend! Ik wil juridisch advies inwinnen over mijn bestelling.",
+      "timestamp": "2026-05-31T19:20:39.642501"
+    },
+    "status": "ESCALATE",
+    "reply": "!! ESCALATE TO HUMAN\nReden: bericht bevat gevoelig trefwoord: 'juridisch'\nPlatform: WhatsApp | Afzender: +32 471 98 76 54",
+    "escalation_hit": "juridisch",
+    "processed_at": "2026-05-31T19:20:39.655943"
+  },
+  {
+    "message": {
+      "platform": "Instagram",
+      "sender": "@nathalie.moons",
+      "text": "Hoeveel jaar garantie zit er op de koelkast?",
+      "timestamp": "2026-05-31T19:20:39.658666"
+    },
+    "status": "AUTO",
+    "reply": "Hallo Nathalie! 👋\n\nAlle producten van BelgaShop hebben **2 jaar wettelijke garantie**. Dit geldt ook voor uw koelkast. Tip: registreer uw apparaat op **belga-shop.be/garantie** voor uitgebreide service en ondersteuning.\n\nKan ik u nog ergens anders mee helpen?",
+    "escalation_hit": null,
+    "processed_at": "2026-05-31T19:20:40.975224"
+  }
+]
