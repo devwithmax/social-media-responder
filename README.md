@@ -1,4 +1,4 @@
-# Social Media Responder
+﻿# Social Media Responder
 
 > **Automatisch reageren op berichten van Facebook, Instagram en WhatsApp — in het Nederlands, aangedreven door Claude AI**
 
